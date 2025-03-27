@@ -8,7 +8,7 @@ Saya seorang pelajar yang sedang belajar tentang **[Artificial Intelligence, Pem
 - **Platform**: GitHub, Replit, Glitch
 
 ## 📚 Proyek yang Sedang Saya Kerjakan
-- 
+- Tidak ada
 
 ## 📈 Statistik GitHub Saya
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndii-dev7&show_icons=true))
