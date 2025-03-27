@@ -1,4 +1,4 @@
-# 👋 Hai, saya [Nama Kamu]!
+# 👋 Hai, saya Wandi!
 
 Saya seorang pelajar yang sedang belajar tentang **[Artificial Intelligence, Pemrograman, Internet Of Things"]**. Saat ini, saya sedang mendalami **[bahasa pemrograman "Python", "JavaScript", dan "Java"]**, dan terus berusaha belajar hal baru setiap hari. 😊
 
